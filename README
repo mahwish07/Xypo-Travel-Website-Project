@@ -1,0 +1,31 @@
+# ✈️ Xypo Travel Website Project
+
+A sleek, responsive single-page travel website showcasing destinations, special offers, and a contact section—all built with HTML & CSS for a clean, modern feel.
+
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://mahwish07.github.io/Xypo-Travel-Website-Project/)
+
+---
+
+## 📌 Table of Contents
+
+- [Demo](#demo)  
+- [Features](#features)  
+- [Built With](#built-with)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Project Structure](#project-structure)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Contact](#contact)
+
+---
+
+## 🎬 Demo
+
+Check it out live:  
+https://mahwish07.github.io/Xypo-Travel-Website-Project/
+
+> 🖼️ Add screenshots in the `images/` folder, then embed here:
+
+```markdown
+![Home Page](images/homepage.png)

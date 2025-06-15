@@ -1,31 +1,58 @@
-# ✈️ Xypo Travel Website Project
+Xypo Travel Website 🌍✈️
+A modern, responsive travel website designed for a fictional travel agency — Xypo. It features an engaging layout with smooth animations, parallax effects, and responsive design to promote travel destinations and services.
 
-A sleek, responsive single-page travel website showcasing destinations, special offers, and a contact section—all built with HTML & CSS for a clean, modern feel.
 
-[![Live Demo] (https://mahwish07.github.io/Xypo-Travel-Website-Project/)
 
----
+📌 Table of Contents
+Demo
 
-## 📌 Table of Contents
+Features
 
-- [Demo](#demo)  
-- [Features](#features)  
-- [Built With](#built-with)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)
+Built With
 
----
+Installation
 
-## 🎬 Demo
+Usage
 
-Check it out live:  
+Project Structure
+
+Contributing
+
+License
+
+Contact
+
+🎬 Demo
+Check out the live demo here:
 https://mahwish07.github.io/Xypo-Travel-Website-Project/
 
-> 🖼️ Add screenshots in the `images/` folder, then embed here:
+<!-- Replace with actual image path if available -->
 
-```markdown
-![Home Page](images/homepage.png)
+✨ Features
+Fully responsive design optimized for all screen sizes
+
+Single-page layout with smooth scrolling
+
+Attractive parallax effects and scroll-based animations
+
+Highlights top destinations and tour packages
+
+Easy-to-navigate sections: Home, About, Services, Portfolio, Contact
+
+SEO-friendly and clean code structure
+
+🛠️ Built With
+HTML5, CSS3
+
+JavaScript (ES6+)
+
+AOS (Animate on Scroll) for animations
+
+Google Fonts & Font Awesome for typography and icons
+
+Deployed using GitHub Pages
+
+⚙️ Installation
+Prerequisites
+A modern web browser (Chrome, Firefox, Edge, etc.)
+

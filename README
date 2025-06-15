@@ -1,57 +1,64 @@
 Xypo Travel Website 🌍✈️
 A modern, responsive travel website designed for a fictional travel agency — Xypo. It features an engaging layout with smooth animations, parallax effects, and responsive design to promote travel destinations and services.
 
+[![Live Demo] (https://mahwish07.github.io/Xypo-Travel-Website-Project/)
 
+## 📌 Table of Contents
 
-📌 Table of Contents
-Demo
+- [Demo](#demo)  
+- [Features](#features)  
+- [Built With](#built-with)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Project Structure](#project-structure)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Contact](#contact)
 
-Features
-
-Built With
-
-Installation
-
-Usage
-
-Project Structure
-
-Contributing
-
-License
-
-Contact
-
-🎬 Demo
+## 🎬 Demo
 Check out the live demo here:
 https://mahwish07.github.io/Xypo-Travel-Website-Project/
 
-<!-- Replace with actual image path if available -->
 
-✨ Features
-Fully responsive design optimized for all screen sizes
+## ✨ Features
 
-Single-page layout with smooth scrolling
+- Fully responsive design optimized for all screen sizes
+- Single-page layout with smooth scrolling
+- Attractive parallax effects and scroll-based animations
+- Highlights top destinations and tour packages
+- Easy-to-navigate sections: Home, About, Services, Portfolio, Contact
+- SEO-friendly and clean code structure
 
-Attractive parallax effects and scroll-based animations
+--- 
 
-Highlights top destinations and tour packages
-
-Easy-to-navigate sections: Home, About, Services, Portfolio, Contact
-
-SEO-friendly and clean code structure
-
-🛠️ Built With
+## 🛠️ Built With
 HTML5, CSS3
+---
 
-JavaScript (ES6+)
+## JavaScript (ES6+)
 
-AOS (Animate on Scroll) for animations
-
-Google Fonts & Font Awesome for typography and icons
+-AOS (Animate on Scroll) for animations
+- Google Fonts & Font Awesome for typography and icons
 
 Deployed using GitHub Pages
 
 ⚙️ Installation
-Prerequisites
-A modern web browser (Chrome, Firefox, Edge, etc.)
+
+1. **Clone the repo**  
+    ```bash
+    git clone https://github.com/mahwish07/mahwish07/Xypo-Travel-Website-Project.git
+cd Xypo-Travel-Website-Project
+    ```
+
+2. **Install dependencies** 
+    (No external dependencies required for this project. All files are static.)
+
+3. **Run locally**  
+    ```bash
+   
+    simply open `index.html` in your browser.
+
+---
+
+
+
